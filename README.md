@@ -1,2 +1,0 @@
-# IntroToPY
-assignment 2
